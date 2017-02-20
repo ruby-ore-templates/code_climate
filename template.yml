@@ -1,2 +1,2 @@
 development_dependencies:
-  codeclimate-test-reporter: ~> 0.1
+  simplecov: ~> 0.1
